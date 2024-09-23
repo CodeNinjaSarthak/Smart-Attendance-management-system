@@ -35,10 +35,9 @@ The **Smart Attendance Management System** is a project designed to automate the
 1. Clone this repository:
 
 ```bash
- git clone https://github.com/sidd707/Smart-Attendance-management-system.git
+ git clone https://github.com/CodeNinjaSarthak/Smart-Attendance-management-system.git
  ```
    
-
 2. Install the dependencies:
 
   ```bash
